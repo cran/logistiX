@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <stddef.h>
 #include <math.h>
-#include <malloc.h>
+//#include <malloc.h>
 #define PREC 0.00000001
 #define LPREC 18.42
 #define MLPREC 0.0001
