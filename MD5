@@ -1,0 +1,14 @@
+f811cc420788fa4aa29b5c0947387214 *DESCRIPTION
+b83ba9fd5cfa48d1d235af7fefae6db6 *NAMESPACE
+6f6f9a8e9b8a8d5b2e0fca8497f3d92d *R/logistiX.r
+92a78a553d55d22f2336663f49bfa165 *R/plot.logistiX.r
+d9818b661495321929453c7262b582b9 *R/print.logistiX.r
+484c5c0a34b593e5d2c43ad45ef288b4 *man/coef.logistiX.rd
+d0da9b579052179e7fbec44f40b657ae *man/confint.logistiX.Rd
+9b0dff5ed363f0000e2618b5991e4f91 *man/logistiX-package.Rd
+f4fb81dd7e0697a25bb830e282a8e2d6 *man/logistiX.Rd
+bcdaa7b96ecadfa3270d67fcb425647b *man/plot.logistiX.Rd
+16fb3ad968273b668bdfc9730c77f24b *man/print.logistiX.Rd
+ad273f9f703a5fa766cc64de2a6cb2f2 *man/profile.logistiX.Rd
+64fa4a884cd38393c9e4c809acf17876 *man/summary.logistiX.Rd
+4adb40351ce3539cc9126a4fa7570545 *src/logistiX.c

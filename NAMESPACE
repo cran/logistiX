@@ -1,0 +1,16 @@
+
+export(logistiX)
+
+#### definition of S3 methods:
+S3method(coef,logistiX)
+S3method(confint, logistiX)
+S3method(plot, logistiX)
+S3method(print, logistiX)
+S3method(profile, logistiX)
+S3method(summary, logistiX)
+
+
+#### register shared objects (C++ DLL):
+useDynLib(logistiX)       
+
+                                                                               
